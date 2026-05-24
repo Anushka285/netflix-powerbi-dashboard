@@ -4,6 +4,12 @@ An interactive Netflix Analytics Dashboard built in Power BI using IMDb and Netf
 
 ---
 
+## 🚀 Live Interactive Dashboard
+
+[View Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNmZmZDU2NjktMzgwOC00NTRjLTg2NmEtNzdmYjI3NTRlZGNkIiwidCI6IjcwZGUxOTkyLTA3YzYtNDgwZi1hMzE4LWExYWZjYmEwMzk4MyIsImMiOjN9)
+
+---
+
 ## 📊 Dashboard Preview
 
 ![Dashboard Preview](images/dashboard-preview.png)
