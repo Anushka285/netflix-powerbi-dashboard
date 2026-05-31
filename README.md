@@ -12,7 +12,7 @@ An interactive Netflix Analytics Dashboard built in Power BI using IMDb and Netf
 
 ## 📊 Dashboard Preview
 
-![Dashboard Preview](images/dashboard-preview.png)
+![Dashboard Preview](images/dashboard.png)
 
 ---
 
